@@ -1,10 +1,10 @@
-# 📚 Libft – 42 School Project
+# Libft – 42 School Project
 
 Libft is one of the first and most fundamental projects at 42. Its main goal is to have the student create their **own C library** by reimplementing several standard C functions and developing additional utility functions from scratch.
 
 ---
 
-## 📌 Main Objectives
+## Main Objectives
 
 - Recreate functions from `<ctype.h>`, `<string.h>`, `<stdlib.h>`, etc.
 - Learn how to work with pointers, arrays, strings, and memory in C.
@@ -14,7 +14,7 @@ Libft is one of the first and most fundamental projects at 42. Its main goal is 
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 The library is usually split into three parts:
 
@@ -41,7 +41,7 @@ Linked list manipulation:
 
 ---
 
-## 🛠️ Technical Requirements
+## Technical Requirements
 
 - All function names must be prefixed with `ft_`.
 - Only `malloc`, `free`, and `write` are allowed from the standard library.
@@ -51,13 +51,13 @@ Linked list manipulation:
 
 ---
 
-## 📘 Conclusion
+## Conclusion
 
 `Libft` acts as a **personal C toolkit**, essential for all upcoming 42 projects.
 It teaches discipline, good coding practices, and provides a solid understanding of C programming fundamentals.
 
 ---
 
+> ✅ **Final Grade: 125/100**
 > 🏫 Project made at [42 Lisboa](https://www.42lisboa.com/pt/)
 > 👤 Author: Stephan Rodrigues Lassaponari ([@Stezsz](https://github.com/Stezsz))
-> ✅ **Final Grade: 125/100**
