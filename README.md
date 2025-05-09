@@ -59,5 +59,5 @@ It teaches discipline, good coding practices, and provides a solid understanding
 ---
 
 > ✅ **Final Grade: 125/100**
-> 🏫 Project made at [42 Lisboa](https://www.42lisboa.com/pt/)
+> Project made at [42 Lisboa](https://www.42lisboa.com/pt/)
 > 👤 Author: Stephan Rodrigues Lassaponari ([@Stezsz](https://github.com/Stezsz))
